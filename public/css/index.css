@@ -1,0 +1,42 @@
+
+#registerInfo{
+    margin-left: 45%;
+}
+
+#registrar_btn{
+    padding: 0.5em;
+    width: 17%;
+    background-color: rgb(137, 34, 255);
+    border-radius: 2em;
+    border-width: 0;
+    color: white;
+}
+
+#column_BT{
+    float: left;
+    width: 33.33%;
+    display: flex;
+    justify-content:center;
+}
+
+#Bonuses_row:after{
+    display: table;
+}
+
+.sutd_class{
+    background-color: rgb(255, 196, 147);
+    width: 20em;
+    padding: 1em 1em 1em 1em;
+    margin-bottom: 0.5em;
+    border-radius: 0.35em;
+}
+
+.increaseBtnId{
+    padding: 0.5em;
+    width: 30%;
+    background-color: rgb(137, 34, 255);
+    border-radius: 2em;
+    border-width: 0;
+    color: white;
+    margin-right: 1em;
+}
